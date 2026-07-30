@@ -1,8 +1,5 @@
 /*
 ===============================================================================
-Script Name : Create Silver Layer Tables
-Project     : SQL Data Warehouse (Bronze → Silver → Gold)
-Author      : Shlok Dhande
 Description :
     This script creates all tables required for the Silver layer of the
     Data Warehouse.
