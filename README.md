@@ -1,6 +1,7 @@
 **🏗️ SQL Data Warehouse Project**
 
 **📌 Project Overview : **
+
 This project demonstrates the development of a modern SQL Server Data
 Warehouse using an end-to-end ETL workflow, data modeling, and layered
 architecture.
@@ -13,6 +14,7 @@ The final Gold layer provides clean and structured data that can be used
 for reporting, analytics, and business intelligence.
 ---
 🎯 Project Objectives
+
 Build a modern data warehouse using SQL Server
 Integrate data from multiple source systems
 Design a structured ETL pipeline
